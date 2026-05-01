@@ -1,0 +1,6 @@
+name = "parser_bot_js"
+main = "index.js"
+compatibility_date = "2026-05-01"
+
+[vars]
+# EXAMPLE_VAR = "value"
