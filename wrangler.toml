@@ -1,4 +1,4 @@
-name = "parser_bot_js"
+name = "parserbotjs"
 main = "index.js"
 compatibility_date = "2026-05-01"
 
